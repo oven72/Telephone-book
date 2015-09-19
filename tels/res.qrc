@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pic/tick.png</file>
+        <file>pic/accept.png</file>
+        <file>pic/add.png</file>
+        <file>pic/binocular--plus.png</file>
+        <file>pic/delete.png</file>
+        <file>pic/application_edit.png</file>
+    </qresource>
+</RCC>
